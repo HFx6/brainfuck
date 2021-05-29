@@ -1,4 +1,4 @@
-#brainfuck
+# brainfuck
 
 usage:
 
