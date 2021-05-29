@@ -1,2 +1,5 @@
+#brainfuck
+
 usage:
-bf.py <txt of brainfuck code>
+
+bf.py \<txt of brainfuck code>
